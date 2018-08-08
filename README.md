@@ -2,6 +2,9 @@
 ## Lending Club
 ### Prepared by Group # 8: Naval Goel and Vinay Nihalani
 
+## Objective
+Our goal remains to build a strategy that will enable an investor to select and build a portfolio of loan notes, say 5 to 10, that maximizes the rate of return of the portfolio given a risk profile of the investor.  
+
 You can use the [editor on GitHub](https://github.com/navalg/.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
