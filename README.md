@@ -15,7 +15,7 @@ Here are the steps we have taken so far to clean up the data:
 2.	Second, we went through each of the 64 columns and reviewed columns with majority of the data missing.  We found nine columns with more than 90% of data missing, except for one with about 63% data missing. We dropped these columns also and were left with 55 variables: either predictor or response variables.
 3.	We also dropped about observations which did not have any values for some of the columns. Out of a total of 42,539 loan applications in the data set, we were left with 41,030 observations.
 4.	Then, we looked at the correlation between these variables and found significant correlations between several variables. The correlation matrix is shown below.
-5.	TNext, we reviewed our strategy to come up with a response variable.  We decided to evaluate an investor’s rate of return on the amount funded for the loan.  
+5.	Next, we reviewed our strategy to come up with a response variable.  We decided to evaluate an investor’s rate of return on the amount funded for the loan.  
 	a.	To calculate the return, we calculated the total net amount investor received from this investment.  We calculate the total net payment received as follows
 Total Net Amount Returned=A=Total Principal Received+Total Interest Received+Total Late Fees Received+Post Charge Off Gross Recoveries-Collection Recovery Fees
 	b.	The amount invested was given as amount committed to the loan 
