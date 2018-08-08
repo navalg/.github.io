@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+# CS109A Data Science Final project
+## Lending Club
+### Prepared by Group # 8: Naval Goel and Vinay Nihalani
 
 You can use the [editor on GitHub](https://github.com/navalg/.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
